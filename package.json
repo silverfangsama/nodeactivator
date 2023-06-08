@@ -1,11 +1,10 @@
 {
-  "name": "tokenresolver",
+  "name": "nodeactivator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node ./index.js",
-    "build": "netlify deploy --prod",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
